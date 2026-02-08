@@ -1,0 +1,54 @@
+/* Main Background */
+.stApp {
+    background-color: #0e1117;
+    color: #ffffff;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #161b22;
+}
+
+/* Inputs */
+.stTextInput > div > div > input {
+    background-color: #262730;
+    color: #ffffff;
+    border-radius: 4px;
+}
+
+.stTextArea > div > div > textarea {
+    background-color: #262730;
+    color: #ffffff;
+    border-radius: 4px;
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #238636;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+}
+
+.stButton > button:hover {
+    background-color: #2ea043;
+}
+
+/* Expander/Cards */
+.streamlit-expanderHeader {
+    background-color: #262730;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* Tables/Dataframes */
+div[data-testid="stDataFrame"] {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+}
+
+h1, h2, h3 {
+    color: #f0f6fc;
+}
