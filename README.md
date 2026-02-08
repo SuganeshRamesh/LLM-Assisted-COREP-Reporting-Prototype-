@@ -1,4 +1,4 @@
-# PRA Regulatory Copilot (Prototype)
+# LLM-Assisted COREP Reporting (Prototype)
 
 An LLM-assisted solution for automating COREP regulatory reporting (specifically CA1 - Own Funds) using Retrieval-Augmented Generation (RAG) and EBA-compliant validation rules.
 
@@ -95,3 +95,4 @@ The application will open in your default browser at `http://localhost:8501`.
 
 ---
 *Note: This is a prototype for demonstration purposes and should not be used for actual regulatory submissions without human review.*
+
