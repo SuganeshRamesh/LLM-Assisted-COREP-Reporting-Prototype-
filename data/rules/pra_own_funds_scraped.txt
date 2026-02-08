@@ -1,0 +1,1378 @@
+Source: https://www.bankofengland.co.uk/prudential-regulation/regulatory-reporting/regulatory-reporting-banking-sector
+
+Home
+
+Prudential regulation
+
+Regulatory reporting
+
+Regulatory reporting and disclosure - banking sector
+
+Regulatory reporting and disclosure - banking sector
+
+Firms in the banking sector (banks, building societies, investment firms and credit unions) need to provide regulatory returns to the Prudential Regulation Authority (PRA). This section explains the returns and how firms should report them.
+
+Related links
+
+Related links
+
+Regulatory reporting
+
+Regulatory reporting - insurance sector
+
+Supervision
+
+Structural reform
+
+CRD IV
+
+PRA Rulebook
+
+In this section
+
+Banks, building societies and investment firms
+
+Regulatory reporting: Credit unions
+
+Banks, building societies and investment firms
+
+Credit unions
+
+Latest updates
+
+12 June 2023:
+
+In the
+
+PRA’s Future Approach to Policy (DP4/22
+
+), the PRA announced it was launching a Banking Data Review (BDR). The review will look at what data it collects currently and what data the PRA needs now and in future.
+
+The PRA will hold an Industry Consultative Forum on 5 July in hybrid format where we will share our phasing plan for the BDR and what we have planned for phase 1. The majority of the session will be allocated to hearing your views on our proposals and the impact these will have on your firm.
+
+We have been coordinating this event through industry trade bodies, but if you have not been contacted through a trade body about this event you can get in touch directly at
+
+BDRsecretariat@bankofengland.co.u
+
+k to learn more and to register your attendance. Membership is open to heads of regulatory reporting or similar of all PRA regulated banks, building societies and designated investment firms.
+
+27 March 2023
+
+: As outlined in the updated
+
+Pillar 2 reporting instructions note
+
+, the Bank of England is de-commissioning emails within the “gsi” family domain, in-line with the Government’s decision. As such, firms should now be using the
+
+PRAPillar2Capital@bankofengland.co.uk
+
+mailbox to submit Pillar 2 data.
+
+Regulatory reporting banking sector updates - 2022
+
+8 July 2022
+
+: As per
+
+CP5/21
+
+and PS17/21
+
+, and finalised in
+
+PS22/21
+
+, the PRA has implemented the EBA Taxonomy 3.0 for firms to use from 1 January 2022. Firms should be using this taxonomy to meet the reporting requirements set out in the PS17/21. Any future changes to CRR reporting requirements will be subject to PRA public consultation process, as set out in FSMA.
+
+The PRA has implemented EBA Taxonomy 2.10 for COR013 resolution reporting. Any future changes to BRRD reporting requirements will also be subject to PRA public consultation process.
+
+Changes to validation rules are released periodically by the EBA. The Bank will implement any validation changes that relate to EBA Taxonomy 3.0 or previous taxonomy versions, for as long as these packages are used to meet reporting requirements.
+
+Subsequent EBA taxonomies should only be implemented by firms if indicated during the PRA public consultation process for future reporting changes.
+
+Regulatory reporting banking sector updates - 2021
+
+15 December 2021
+
+: The PRA has published a
+
+statement with guidance
+
+on how recent changes to banking regulatory reporting requirements are being implemented in the CRR reporting modules.
+
+8 November 2021
+
+: Following
+
+PS25/21 - Responses to CP13/21 ‘Occasional Consultation Paper’
+
+, there are a number of updates to regulatory reporting templates and related guidance material. Please see the PS for further details.
+
+1 November 2021
+
+: We published version 3.5.0 of the Bank of England Banking taxonomy to support the collection of leverage ratio reporting. Please see the
+
+Banks, building societies and investment firms page
+
+for more information.
+
+26 October 2021:
+
+We published version 3.4.1 of the Bank of England Banking taxonomy, which is a minor update. Please see the
+
+Banks, building societies and investment firms page
+
+for more information.
+
+8 October 2021
+
+: Today we published
+
+CP20/21 ‘Trading activity wind-down’
+
+, to all PRA-authorised UK banks, their qualifying parent undertakings and PRA-designated investment firms that are engaged in trading activities, and relevant third country branches. This CP is also relevant to policymakers and practitioners that would expect to be involved in a firm’s resolution. This consultation closes on Friday 21 January 2022.
+
+6 September 2021
+
+: We published version 3.5.0 public working draft (PWD) of the Bank of England Banking taxonomy to support the collection of Leverage Ratio reporting, alongside related technical artefacts. Please see the
+
+Banks, building societies and investment firms page
+
+for more information.
+
+3 September 2021
+
+: We published a
+
+statement providing an update to firms on Remuneration Benchmarking and High Earners 2020 submissions
+
+. For firms that have not already done so, the PRA expects submission of these reports by Thursday 30 September 2021.
+
+2 August 2021
+
+: We published v3.4.0 of the Bank of England XBRL Banking taxonomy to support the collection of Capital+, Financial Statements and Ring-fencing reporting, alongside related technical artefacts. Please see the
+
+Banks, building societies and investment firms page
+
+for more information.
+
+7 June 2021
+
+: We published
+
+PS13/21 ‘Credit risk: The approach to overseas Internal Ratings Based (IRB) models’
+
+relevant to UK banks, building societies, and PRA-designated investment firms.
+
+18 May 2021
+
+: We published ‘
+
+PRA statement on supervisory benchmarking exercise relating to capital internal models
+
+’, addressing the 2022 and 2023 supervisory benchmarking exercise. It is relevant to those credit institutions that have been in scope of the associated reporting requirements.
+
+30 April 2021
+
+: We published a
+
+letter from Melanie Beaman to Chief Risk Officers of PRA-regulated UK Deposit Takers
+
+, providing the findings from the 2020 Internal Audit Review of Collections.
+
+27 April 2021:
+
+We published
+
+‘PRA statement on the disclosure of exposures subject to measures applied in response to Covid-19’
+
+. This statement is relevant to UK banks and building societies.
+
+As a reminder firms should note that we do not intend to update the Capital+ and financial statements XBRL utilities to reflect changes to the Capital+ or financial statements reporting requirements in Taxonomy 3.4.0. Please see the
+
+Banks, building societies and investment firms page
+
+for more information.
+
+22 April 2021
+
+: We published a
+
+statement on Remuneration Benchmarking and Remuneration High Earners reporting templates
+
+, outlining our approach to the issues identified in the XBRL Remuneration reporting templates.
+
+1 April 2021
+
+: On the 10 March 2021 we published v3.4.0 public working draft (PWD) of the Bank of England XBRL Banking taxonomy to support the collection of Capital+, Financial Statements and Ring-fencing reporting, alongside related technical artefacts.
+
+10 March 2021
+
+: We published v3.4.0 public working draft (PWD) of the Bank of England XBRL Banking taxonomy to support the collection of Capital+, Financial Statements and Ring-fencing reporting, alongside related technical artefacts. Please see the
+
+Banks, building societies and investment firms’ web page
+
+for more information.
+
+9 February 2021
+
+: We published ‘
+
+PRA statement on supervisory benchmarking exercise relating to capital internal models
+
+’ addressing the 2021 supervisory benchmarking exercise for capital internal models. This statement is relevant to credit institutions in scope of the reporting requirements.
+
+5 February 2021:
+
+We published ‘
+
+PRA Statement on Covid-19 regulatory reporting amendments
+
+’, in response to the current Covid-19 conditions. This statement is relevant to PRA-regulated UK banks, building societies, designated investment firms and credit unions (firms).
+
+Regulatory reporting banking sector updates - 2020
+
+15 December 2020
+
+: We published: a letter from David Bailey and Rebecca Jackson on
+
+‘International Banks Supervision: 2021 Priorities’
+
+to Chief Executive Officers of PRA regulated international banks; and a letter from Sarah Breeden and Melanie Beaman
+
+‘UK Deposit Takers Supervision: 2021 Priorities’
+
+to Chief Executive Officers of PRA regulated UK deposit takers.
+
+7 October 2020
+
+: We sent a
+
+letter to all PRA-regulated credit unions
+
+notify them of our decision to publish a model direction modifying a PRA rule on minimum provisioning requirements, which is  available on the
+
+Waivers and modification of rules page
+
+.
+
+24 September 2020
+
+: We published one update (Version 02.04) to the PRA110 liquidity metric monitoring tool (PRA110 LMM tool), following feedback received on the previous version published on Thursday 5 March 2020. Version 2.04 of the PRA110 LMM tool also includes the enhanced wholesale only stress. Please see the
+
+‘Liquidity tools – supervisory tools’
+
+web page for more information.
+
+23 September 2020
+
+: The FCA has announced that the first firms will start moving to the new data collection platform, RegData, which replaces Gabriel. Firms will be moving gradually in stages, and PRA firms are not expected to migrate to the new system until 2021. Please read the
+
+FCA news release
+
+Opens in a new window
+
+Opens in a new window
+
+for further information.
+
+14 September 2020
+
+: The 2021 Supervisory Benchmarking Portfolio exercise (for end 2020) requirements are set out in the 2021 draft implementing technical standards (ITS), amending Commission Implementing Regulation (EU) 2016/2070 with regard to benchmarking of internal models, and the accompanying annexes on market risk, credit risk, and IFRS 9. The PRA expects these amendments to ITS 2016/2070 in relation to benchmarking portfolios, reporting templates, and reporting instructions to be made applicable before the end of the transition period.
+
+As set out in the 2021 exercise, the reference date for the Supervisory Benchmarking Portfolio – Initial Market Valuation (COR010) is Thursday 24 September 2020, with the data due to be submitted via the GABRIEL reporting system by Friday 2 October 2020.
+
+Please be aware that the GABRIEL system will be able to accept submissions of 2020 COR010 data from Monday 28 September 2020.
+
+All other templates in the 2021 Supervisory Benchmarking Portfolio exercise (for end 2020) must be submitted according to Taxonomy 2.10 requirements, and the remittance dates set out in the Commission Implementing Regulation (EU) 2016/2070 and its annexes.
+
+4 September 2020
+
+: We published
+
+Policy Statement 20/20 ‘Responses to Chapters 2 to 7 of CP3/20 ‘Occasional Consultation Paper’’
+
+, relevant to all PRA-authorised firms. For the banking sector, this includes amendments to:
+
+Supervisory Statement (SS) 24/15 ‘The PRA’s approach to supervising liquidity and funding risks’
+
+;
+
+SS34/15 ‘Guidelines for completing regulatory reports’
+
+;
+
+the
+
+PRA101 template
+
+, the
+
+Branch Return Form
+
+and
+
+validations
+
+, and the
+
+instructions for completing the PRA110 template
+
+Opens in a new window
+
+Opens in a new window
+
+;
+
+the Regulatory Reporting Part of the PRA Rulebook; and
+
+the Senior Managers Regime application forms and the Senior Managers Regime – Applications and Notifications Part of the PRA Rulebook (effective from Sunday 25 October 2020).
+
+The Senior Managers Regime changes are effective from Sunday 25 October 2020. All other updates take effect on Friday 4 September 2020.
+
+4 August 2020
+
+: We published
+
+Policy Statement (PS) 19/20 ‘Financial Service Compensation Scheme – Temporary High Balance Coverage Extension’
+
+. The PS updates the following:
+
+the Depositor Protection Part of the PRA Rulebook; and
+
+the updated
+
+Statement of Policy (SoP) ‘Deposit Guarantee Scheme’
+
+.
+
+The rule change and updated SoP will be effective on Thursday 6 August 2020. Coverage for THBs will revert to six months from Monday 1 February 2021.
+
+31 July 2020
+
+: The PRA is required, as a competent authority, to publish information on rules and  guidance, options and discretions, supervisory review and evaluation process (SREP), and aggregate statistical data, alongside submitting the information to the European Banking Authority (EBA) in line with Article 143 of Directive 2013/36/EU (CRD IV) and Commission Implementing Regulation 650/2014. On 31 July 2020, we published the aggregate statistical data as at 31 December 2019. Please see the
+
+Banking supervisory disclosures page
+
+for more information.
+
+28 July 2020
+
+: We published a ‘
+
+Statement by the PRA on EBA Guidelines on reporting and disclosure of exposures subject to measures applied in response to the Covid-19 outbreak
+
+’ to UK banks and building societies (which are, or are controlled by, global or other systemically important institutions designated by the PRA, and that hold retail deposits in excess of £50 billion), to set out how the EBA’s disclosure requirements are to be implemented, following our
+
+statement
+
+published on Wednesday 24 June 2020, and the subsequent update on Friday 10 July 2020. The disclosure template was published alongside this statement.
+
+9 July 2020
+
+: We published
+
+CP6/20 ‘Financial Service Compensation Scheme – Temporary High Balance Coverage Extension’
+
+. This CP is relevant to the FSCS and all PRA-authorised deposit-takers as well as retail financial consumers who are currently, or who may become, THB depositors before Monday 1 February 2021.
+
+1 July 2020
+
+: We published a letter from Sam Woods to all PRA-regulated firms on ‘
+
+Managing climate-related financial risk – thematic feedback from the PRA’s review of firms’ SS3/19 plans and clarification of expectations
+
+’. We also published a speech by Sarah Breeden ‘
+
+Leading the Change: Climate Action in the Financial Sector
+
+’.
+
+30 June 2020
+
+: FSA083 template is now xml-enabled.
+
+29 June 2020
+
+: It has come to our attention that the FCA address on the
+
+notification form
+
+Opens in a new window
+
+Opens in a new window
+
+, which is used by firms to notify the PRA and FCA when a notifiable event occurs or is deemed likely to occur, is incorrect. We are aware of this error and will consult on updating the form in due course. For notifications to the FCA, please see the revised version of the form, with the correct FCA address, at
+
+SUP 15 Ann 4 R
+
+Opens in a new window
+
+Opens in a new window
+
+in the FCA Handbook.
+
+26 June 2020
+
+: We published a statement ‘
+
+Covid-19 regulatory reporting and disclosure amendments
+
+’ which updates our approach to regulatory reporting and Pillar 3 disclosures for PRA-regulated banks in response to the Covid-19 outbreak.
+
+22 June 2020
+
+: The FCA has announced that the new data collection platform to replace Gabriel will be called RegData.
+
+The FCA explained
+
+Opens in a new window
+
+Opens in a new window
+
+what firms should expect and what they will need to do before they are moved to RegData. PRA firms are not expected to migrate to the new system for submission of returns until 2021.
+
+21 May 2020
+
+: We published v2.0.1 of the Capital Plus XBRL Utility which is an Excel spreadsheet containing the Capital Plus templates that can be used to generate XBRL submissions based on v3.3.0 of the Bank of England Banking Taxonomy. Please see the
+
+Banks, building societies and investment firms’ web page
+
+for more information.
+
+9 April 2020
+
+: We updated the ‘
+
+Covid-19 regulatory reporting and disclosure amendments
+
+’ statement to reflect the deadline extension of two additional returns ‘Supervisory benchmarking exercise – credit risk’ and ‘REP005 – High earners report’.
+
+6 April 2020
+
+: We published v2.0.0 of the Capital Plus XBRL Utility which is an Excel spreadsheet containing the Capital Plus templates that can be used to generate XBRL submissions based on v3.3.0 of the Bank of England Banking Taxonomy. Please see the
+
+Banks, building societies and investment firms’ web page
+
+for more information.
+
+2 April 2020
+
+: On 31 March 2020 the European Banking Authority published a ‘
+
+statement on supervisory reporting and Pillar 3 disclosures in light of Covid-19
+
+Opens in a new window
+
+Opens in a new window
+
+’  Please read the PRA statement ‘
+
+Covid-19 regulatory reporting and disclosure amendment
+
+’ for more information. The Bank also published a
+
+notice with guidance for firms on statistical reporting
+
+.
+
+31 March 2020
+
+: Later this year the FCA and the PRA will be moving to a new data collection platform, which will replace Gabriel. To prepare for the move, from Thursday 2 April all Gabriel users will be asked to complete a mandatory one-time registration activity next time they log in to Gabriel. For more information on this please see the
+
+FCA website
+
+Opens in a new window
+
+Opens in a new window
+
+.
+
+5 March 2020:
+
+We published two updates (Version 01.05 and Version 02.03) to the PRA110 liquidity metric monitoring tool (PRA110 LMM tool), following feedback received on the previous versions published on Friday 1 November 2019. Please note that we do not intend to routinely publish further updates of the PRA110 LMM tool that corresponds to the PRA110 template in effect before Wednesday 1 January 2020 (ie PRA110 LMM Version 01.05). Please see
+
+Liquidity tools – supervisory tools
+
+for more information.
+
+2 March 2020
+
+: We published
+
+Policy Statement (PS) 4/20 ‘Liquidity: The PRA’s approach to supervising liquidity and funding risks’
+
+, relevant to PRA-authorised UK banks, building societies, and PRA-designated UK investment firms. This includes an update to
+
+Supervisory Statement (SS) 24/15 ‘The PRA’s approach to supervising liquidity and funding risks’
+
+.
+
+28 February 2020
+
+: We published
+
+CP2/20 ‘Pillar 2A: Reconciling capital requirements and macroprudential buffers’
+
+. This CP is relevant to PRA-authorised UK banks, building societies and PRA-designated investment firms. Responses are requested by Thursday 30 April 2020.
+
+27 February 2020
+
+: We published an update to the release note published with the Bank of England Banking taxonomy version 3.3.0. This provides an updated file for those who use the rend.xml files in the taxonomy package for the production of XBRL instance files. Minor amendments have also been made in relation to the Excel validations file. Please see the
+
+Banks, building societies and investment firms’ web page
+
+for more information.
+
+23 January 2020
+
+: We published
+
+PS2/20 ‘Pillar 2 capital: Updates to the framework’
+
+. This PS is relevant to PRA-authorised banks, building societies and PRA-designated investment firms.
+
+The PS contains the final amendments to the Pillar 2 framework and the updates to the following Statement of Policy (SoP) and supervisory statements (SS):
+
+SoP ‘The PRA's methodologies for setting Pillar 2 capital’
+
+SS31/15 ‘The Internal Capital Adequacy Assessment Process (ICAAP) and the Supervisory Review and Evaluation Process (SREP)’
+
+SS6/14 ‘Implementing CRD IV: capital buffers’
+
+These updates will take effect from Thursday 23 January 2020.
+
+Regulatory reporting banking sector updates - 2019
+
+19 December
+
+: We published
+
+Policy Statement 27/19 ‘Responses to Occasional Consultation Paper 25/19 – Chapter 4: Reporting updates for Capital+ and ring-fenced bodies’
+
+relevant to PRA-authorised UK banks, building societies, and PRA-designated UK investment firms. This includes amendments to the reporting part of the Rulebook and an update to
+
+Supervisory Statement (SS) 34/15 ‘Guidelines for completing regulatory returns’
+
+.
+
+PS27/19 also provides updates to the:  PRA101 and PRA102 templates (effective from Wednesday 1 March 2020); and RFB003, RFB004 and RFB008 templates (effective from Monday 1 June 2020). See the PRA data items and instructions and RFB data items and instructions sections of the
+
+Regulatory reporting – banks, building societies and investment firms page
+
+for more information.
+
+17 December
+
+: We published:
+
+Policy Statement 26/19 ‘Pillar 2 liquidity: PRA110 reporting frequency threshold’
+
+, relevant to PRA-authorised UK banks, building societies, and PRA-designated UK investment firms. This includes amendments to the reporting part of the Rulebook and an update to
+
+Supervisory Statement (SS) 24/15 ‘The PRA’s approach to supervising liquidity and funding risks’
+
+. The implementation date is Friday 1 May 2020.
+
+28 November 2019
+
+: We published version 3.3.0 of the Bank of England Banking XBRL taxonomy to support collection of Capital+ and ring-fencing reporting, alongside related technical artefacts. The taxonomy, release note, data point model (DPM) dictionary, annotated templates and validation rules represent the requirements for
+
+PS16/19 ‘Regulatory reporting: European Banking Authority Taxonomy 2.9’
+
+. See the Taxonomy section of the
+
+Regulatory reporting – banks, building societies and investment firms page
+
+for more information.
+
+31 October 2019
+
+: We published a
+
+letter ‘Reliability of regulatory returns’
+
+from Sarah Breeden, Executive Director of UK Deposit Takers Supervision, and David Bailey, Executive Director of International Banks Supervision, to CEOs of PRA-regulated banks and building societies.
+
+14 October 2019
+
+: On 16 July 2019 the Financial Conduct Authority (FCA) published an update to firms announcing a new platform to improve the way data is collected from firms, which will include replacing Gabriel, and opened a survey for users of Gabriel. The FCA has now published an update on the three key areas of improvement that they will focus on following user feedback. These include:
+
+accessing Gabriel
+
+viewing reporting schedules
+
+submitting data
+
+We continue to work with the FCA on improvements to the shared Gabriel system. For more information or to take part in the survey see the
+
+FCA’s website
+
+.
+
+3 October 2019
+
+: We published:
+
+a further
+
+update (Version 01.03) to the PRA110 liquidity metric monitor tool (PRA110 LMM tool)
+
+based on the current template, in response to feedback received on Version 01.02, published on Friday 30 August 2019.
+
+a new liquidity metric monitor tool (PRA110 LMM tool, Version 02.01)
+
+reflecting the changes to the PRA110 template effective from 1 January 2020, as set out in
+
+PS13/19 ‘Pillar 2 liquidity: Updates to the framework’
+
+.
+
+Version 7 of the PRA110 Q&A. For more information see the
+
+Regulatory reporting – banking sector Banks, building societies and investment firms webpage
+
+.
+
+30 September 2019
+
+: We published a joint Policy Statement (PS) with the Financial Conduct Authority (FCA),
+
+PS22/19 ‘FCA and PRA changes to mortgage reporting requirements’
+
+. This PS is relevant to: mortgage lenders; home finance administrators; and entities, which own mortgage books but which are not authorised to lend.
+
+As part of PS22/19 the PRA has also published updated versions of the:
+
+Notes for completion of the Mortgage Lenders & Administrators Return (MLAR);
+
+MLAR form; and
+
+Updated
+
+SS34/15 ‘Guidelines to completing regulatory reports’
+
+, which includes a link to the notes for completion of the MLAR.
+
+The updated MLAR notes and form are available on the
+
+Regulatory reporting – Banking sector Banks, building societies and investment firms webpage
+
+.
+
+24 September 2019
+
+: We published version 3.2.1 of the Bank of England Banking XBRL taxonomy as a corrective release. Version 3.2.0 has been withdrawn and must not be used for reporting.
+
+Additionally, we published a public working draft (PWD) of version 3.3.0 of the Bank of England Banking XBRL taxonomy to support collection of Capital+ and ring-fencing reporting, alongside related technical artefacts. The taxonomy, data point model (DPM) dictionary, annotated templates and validation rules represent the requirements for
+
+PS16/19 ‘Regulatory reporting: European Banking Authority Taxonomy 2.9’
+
+. We invite feedback, particularly from firms and software vendors, on the PWD of the taxonomy and DPM artefacts by Monday 7 October 2019. We will aim to publish the updated Banking XBRL taxonomy by end January 2020. See the Taxonomy section of the
+
+Regulatory reporting – banks, building societies and investment firms page
+
+for more information.
+
+18 September 2019
+
+:
+
+On 7 June 2019, the European Union published a new Regulation (EU/2019/876) amending Regulation (EU/575/2013) and Regulation (EU/648/2012) (CRR II) in the Official Journal of the European Union. Following this, we published clarifications in respect of the guidance on reporting and definitions to the MREL reporting templates available in Appendix 2 of
+
+PS11/18 ‘Resolution planning: MREL reporting’
+
+.
+
+12 September 2019
+
+: We published
+
+PS17/19 ‘Supervising international banks: Revision of the Branch Return’
+
+, which is relevant to all existing and prospective PRA-supervised branches of deposit takers and PRA-designated investment firms which are not UK headquartered firms (‘international banks’, and includes:
+
+amendments to the Regulatory Reporting and Incoming Firms and Third Country Firms Parts of the PRA Rulebook (Appendix 1);
+
+reporting guidance included in updated Supervisory Statement (SS) 34/15 ‘Guidelines for completing regulatory reports’ (Appendix 2); and
+
+revised Branch Return template Appendix 3).
+
+Changes to the Branch Return template and the reporting guidance will take effect for the reporting of the H1 2020 Branch Return, ie for the six-month period ending Tuesday 30 June 2020 and firms will need to submit their first revised Branch Return by no later than Tuesday 11 August 2020.
+
+30 August 2019
+
+: We published:
+
+v3.2.0 of the Bank of England XBRL taxonomy, alongside related technical artefacts. This taxonomy is to be used for Pillar 2 liquidity reporting which follows
+
+PS13/19 ‘Pillar 2 liquidity: Updates to the framework’
+
+, published on 17 June 2019. This will take effect from Wednesday 1 January 2020. For more information see the taxonomy section on the
+
+Banks, building societies and investment firms page
+
+.
+
+an update (Version 01.02) to the
+
+PRA110 liquidity metric monitor tool
+
+(PRA110 LMM tool) in response to feedback received on Version 01.01, published on Friday 31 May 2019.
+
+7 August 2019
+
+: We published
+
+PS16/19 ‘Regulatory reporting: European Banking Authority Taxonomy 2.9’
+
+, relevant to UK banks and building societies as well as PRA-designated UK investment firms. This includes the updated
+
+Supervisory Statement (SS) 34/15 ‘Guidelines for completing regulatory reports’
+
+and updates to PRA101, PRA102, PRA103 and RFB004 templates, available on the
+
+Regulatory reporting – Banks, building societies and investment firms page
+
+. Updated PRA101, PRA102 and PRA103 templates will take effect from 1 March 2020, and updated RFB004 will take effect from 1 June 2020.
+
+31 July 2019
+
+: The PRA is required, as a competent authority, to publish information on rules and guidance, options and discretions, supervisory review and evaluation process (SREP), and aggregate statistical data, alongside submitting the information to the European Banking Authority (EBA) in line with Article 143 of Directive 2013/36/EU (CRD IV) and Commission Implementing Regulation 650/2014. On 31 July 2019 we published the aggregate statistical data as at 31 December 2018. This information is now found on the
+
+Banking supervisory disclosures: rules and guidance, options and discretions, SREP and aggregate statistical data page
+
+.
+
+16 July 2019
+
+: The Financial Conduct Authority (FCA) announced a new platform to improve the way data is collected from firms, which will include replacing Gabriel. See the
+
+FCA’s website
+
+for more information on upcoming work on this platform, including a survey for users of Gabriel to help the FCA shape their thinking.
+
+1 July 2019
+
+: We published a:
+
+public working draft (PWD) of version 3.2.0 of the Bank of England Banking XBRL taxonomy to support collection of PRA110 reporting, alongside related technical artefacts. The taxonomy, data point model (DPM) dictionary, annotated templates and validation rules represent the requirements for Pillar 2 liquidity PRA110 reporting. We invite feedback, particularly from firms and software vendors, on the PWD of the taxonomy and DPM artefacts by Friday 12 July 2019. We will aim to publish the updated Banking XBRL taxonomy by the end of September 2019. See the Taxonomy section of the
+
+Regulatory reporting – banks, building societies and investment firms page
+
+for more information.
+
+reminder to firms that as of 1 July the implementation of PRA110 and the dual reporting period with FSA047 and FSA048 has now started. GABRIEL schedules have been updated to reflect this and the FSA047 and FSA048 schedules will be brought in line with the new PRA110 schedules. For the full update see the
+
+‘Reporting of PRA110’
+
+section.
+
+25 June 2019
+
+: We published
+
+Consultation Paper 14/19 ‘Pillar 2 liquidity: PRA110 reporting frequency threshold’
+
+, relevant to PRA-authorised UK banks, building societies, and PRA-designated UK investment firms, referred to collectively as ‘firms’ with total assets of £5 billion or above, calculated in accordance with Council Directive 86/635/EEC. This consultation closes on Friday 27 September 2019.
+
+Version 6 of the PRA110 Q&A – see the
+
+Regulatory reporting – Banks, building societies and investment firms page
+
+.
+
+An update to firms that participated in the PRA110 interim reporting including confirmation of its conclusion with the end of May data point (received Friday 21 June 2019) - see the
+
+Regulatory reporting – Banks, building societies and investment firms page
+
+.
+
+17 June 2019
+
+: We published
+
+Policy Statement 13/19 ‘Pillar 2 liquidity: Updates to the framework’
+
+which includes final policy. Annex A of the final rules instrument, the updated Statement of Policy, the updated Supervisory Statement (SS) 24/15, and updated SS34/15 will take effect from 1 July 2019. Annex B of the rules instrument, and the updated PRA110 template and instructions will take effect from 1 January 2020. See
+
+PS13/19
+
+for more information and links.
+
+Version 5 of the PRA110 Q&A – see the
+
+Regulatory reporting – Banks, building societies and investment firms page
+
+.
+
+7 June 2019
+
+: We published
+
+CP13/19 ‘Occasional Consultation Paper’
+
+which proposes the discontinuation of the FSA006 return.
+
+31 May 2019
+
+: On 1 June 2019 there will be one month to go until the implementation of PRA110 on 1 July 2019 and the dual reporting period with FSA047 and FSA048. Firms are advised to continue to familiarise themselves with the policy, template and instructions. For the full update see the
+
+‘Reporting of PRA110’
+
+section.
+
+As part of our work on the Pillar 2 liquidity framework, including the introduction of PRA110 reporting by firms from 1 July 2019, we published Version 1 of the
+
+PRA110 liquidity metric monitor tool
+
+(PRA110 LMM tool). It is published to assist firms in the same way as the LMM for FSA047 and FSA048. It is for information only and must not be used to submit regulatory returns required by our rules. The PRA110 LMM tool may be updated after the publication of the final policy following
+
+Consultation Paper 6/19 ‘Pillar 2 liquidity: Updates to the framework’
+
+if required, to align with an updated PRA110 reporting template.
+
+1 May 2019
+
+: There are two months to go until the implementation of PRA110 on 1 July 2019 and the commencement of the dual reporting period with FSA047 and FSA048. Firms are advised to continue to familiarise themselves with the policy, template and instructions. For the full update see the
+
+‘Reporting of PRA110’
+
+section.
+
+30 April 2019
+
+: In
+
+Policy Statement 10/17, ‘Ensuring operational continuity in resolution: reporting requirements’
+
+we committed to confirming the precise mechanism by which the PRA109 ‘Operational continuity’ data would be collected. We confirm that this data will be collected via Excel. For the Excel template, related instructions, and submission deadline please see
+
+‘PRA data items and instructions’
+
+.
+
+8 April 2019
+
+: We published
+
+Consultation Paper 8/19 ‘Supervising international banks: Revision of the Branch Return’
+
+, which proposes amendments to the Branch Return Form. The existing Branch Return Form can be found under
+
+‘Branch Return Form’
+
+.
+
+1 April 2019
+
+: There are three months to go until the implementation of PRA110 on 1 July 2019 and the commencement of the dual reporting period with FSA047 and FSA048. Firms are reminded to refer to the most recent Q&As on the template and instructions, and submit any questions that are not covered to their PRA supervisor, and copy in
+
+LiquidityPillar2ReportingProjectQueries@bankofengland.gsi.gov.uk
+
+. Firms are also advised to continue to familiarise themselves with the policy, and template and instructions, to prepare for implementation on 1 July 2019. See
+
+Reporting of PRA110
+
+for more information.
+
+26 March 2019
+
+: We updated the structure of this section to aid usability, specifically, there are now separate pages for information on
+
+banks, building societies and investment firms
+
+and
+
+credit unions
+
+.
+
+19 March 2019
+
+: We published
+
+Consultation Paper (CP) 6/19 ‘Pillar 2 liquidity: Updates to the framework’
+
+. The CP is relevant to UK banks, building societies, PRA-designated investment firms and non-EU EEA banks, and includes proposals to update: the PRA110 template and reporting instructions; Statement of Policy ‘Pillar 2 liquidity’; Supervisory Statement 24/15 ‘The PRA’s approach to supervising liquidity and funding risks’; SS34/15 ‘Guidelines for completing regulatory reports’; and the Regulatory Reporting Part of the PRA Rulebook. This consultation closes on Friday 19 April 2019.
+
+We also published version 4 of the PRA110 Q&As. For more information see the
+
+Reporting of PRA110 section
+
+.
+
+1 March 2019:
+
+There are four months to go until the implementation of PRA110 on 1 July 2019 and the commencement of the dual reporting period with FSA047 and FSA048. Firms are reminded that from 1 July 2019 there will be:
+
+a reduction in the reporting frequency of the FSA047 and FSA048 liquidity reports to align with that of the PRA110 liquidity report, in cases where it would otherwise differ; and
+
+an extension of the submission deadline for those firms that would report the PRA110 on a weekly basis in business-as-usual conditions from one business day to two business days from Monday 1 July 2019 until Thursday 31 October 2019.
+
+Firms are reminded to refer to the most recent Q&A’s on the template and instructions, and submit any questions that are not covered to their PRA supervisor, and copy in
+
+LiquidityPillar2ReportingProjectQueries@bankofengland.gsi.gov.uk
+
+. Firms are also advised to continue to familiarise themselves with the policy, and template and instructions, to prepare for implementation on 1 July 2019.
+
+28 February 2019
+
+: We published near-final policy to deliver the general approach being taken to ensure there is a functioning legal framework when the UK leaves the EU. This includes
+
+Supervisory Statement 2/19 ‘PRA approach to interpreting reporting and disclosure requirements and regulatory transactions forms after the UK’s withdrawal from the EU’
+
+.
+
+13 February 2019:
+
+We published
+
+PS3/19 ‘PRA fees and levies: Changes to periodic and transaction fees’
+
+, including amendments to the PRA Fees part of the Rulebook and an update to
+
+SS3/16 ‘Fees: PRA approach and application’
+
+. These updates come into effect on Friday 1 March 2019.
+
+1 February 2019
+
+: There are five months to go until the implementation of PRA110 on 1 July 2019 and the commencement of the dual reporting period with FSA047 and FSA048. Firms taking part in interim reporting are reminded to refer to the most recent Q&A’s on the template and instructions, and submit any questions that are not covered to their PRA supervisor and copy in
+
+LiquidityPillar2ReportingProjectQueries@bankofengland.gsi.gov.uk
+
+. All other firms are reminded to continue to familiarise themselves with the policy, template and instructions, including the Q&As, to prepare for implementation on 1 July 2019.
+
+31 January
+
+: We published the final direction and notification template for
+
+‘Securitisation Regulation: PRA and FCA joint statement on reporting of private securitisations’
+
+. This is applicable to all UK established originators, sponsors and securitisation special purpose entities (SSPEs). This comes into effect from Thursday 31 January 2019.
+
+15 January
+
+: Following comments from firms and other industry participants on ‘
+
+Securitisation Regulation: PRA and FCA joint statement on reporting of private securitisations
+
+’, the final direction applicable to all UK established originators, sponsors and securitisation special purpose entities (SSPEs) has been delayed and will be published by the end of January 2019, rather than on Tuesday 15 January 2019 as originally specified.
+
+8 January
+
+: We published
+
+PS1/19 ‘Liquidity reporting: FSA047, FSA048, and PRA110’
+
+and an updated
+
+SS34/15 ‘Guidelines for completing regulatory reports’
+
+. See the
+
+Reporting of PRA110 section
+
+for more information.
+
+1 January
+
+: A number of data items and instructions came into force today including:
+
+RFB data items and instructions; and
+
+PRA109 Operational continuity data item and instruction.
+
+The following data items and instructions were updated to reflect policy effective from today:
+
+FSA071, FSA076-79, and FSA081-83 data items;
+
+FSA071-83 instructions;
+
+REP001 and REP001a; and
+
+Guidance on terms used in data items FSA071 to FSA082, and PRA111.
+
+These are available below in the ‘
+
+Data items, instructions and taxonomy
+
+’ section.
+
+The Branch Return form came into force today and is available in the ‘
+
+Branch return Form
+
+’ section.
+
+Regulatory reporting banking sector updates - 2018
+
+20 December:
+
+We published
+
+Policy Statement 33/18 ‘Responses to Chapter 2 of CP24/18 ‘Occasional Consultation Paper’’
+
+, which includes the final rules and Branch Return form to Chapter 2 of Consultation Paper 24/18 ‘Occasional Consultation Paper’. The revised rules and Branch Return form will take effect from Tuesday 1 January 2019.
+
+Further to
+
+Policy Statement 29/18 ‘Securitisation: The new EU framework and Significant Risk Transfer’
+
+, we published a joint statement with the Financial Conduct Authority (FCA),
+
+‘Securitisation Regulation: PRA and FCA joint statement on reporting of private securitisations’
+
+. This direction is intended to apply to all UK established originators, sponsors and securitisation special purpose entities (SSPEs) from Tuesday 15 January 2019.
+
+14 December
+
+:
+
+We published version 3 of the PRA110 Q&As which has been updated to include additional Q&A in existing sections, as well as a new section on contingencies. For more information see the
+
+Interim reporting of PRA110 section
+
+.
+
+13 December
+
+: We published a joint Consultation Paper (CP) with the Financial Conduct Authority (FCA),
+
+CP30/18 ‘FCA and PRA changes to mortgage reporting requirements’
+
+. This CP is relevant to: mortgage lenders; home finance administrators; and entities which own mortgage books but which are not authorised to lend. Please send your comments by Friday 22 March 2019 to
+
+cp18-41@fca.org.uk
+
+.
+
+5 December
+
+: We published
+
+Policy Statement 30/18 ‘Regulatory reporting: Responses to CP16/18’
+
+, updates to
+
+SS34/15 ‘Guidelines for completing regulatory reports’
+
+and
+
+SS32/15 ‘Pillar 2 reporting, including instructions for completing data items FSA071 to FSA082, and PRA 111’
+
+which include links to updated PRA, RFB and FSA templates and instructions available in the relevant sections.
+
+14 November:
+
+We published
+
+Policy Statement 28/18 ‘UK leverage ratio: Applying the framework to systemic ring-fenced bodies and reflecting the systemic risk buffer’
+
+which includes updated policy, and materials. For regulatory reporting this includes updated versions of the FSA083 data item and instructions that will take effect from 1 January 2019. See
+
+FSA data items and instructions
+
+.
+
+9 November:
+
+We published version 2 of the PRA110 Q&As which has been updated to include responses on questions related to: technical implementation; the LCR weights; and memorandum items. This supersedes the version previously published on 28 September 2018. The Q&As are in response to a number of additional questions from firms regarding the template and reporting instructions. For more information see the
+
+Interim reporting of PRA110 section
+
+.
+
+31 October
+
+: We published the ‘Ring-fencing: Summary of regulatory reporting requirements’ pack which summarises the new regulatory reporting, and reporting system requirements in relation to ring-fencing. The pack is aimed at UK banking groups in scope of structural reform requirements that will be required to submit ring-fencing regulatory returns from 1 January 2019. See the 31 October update on the
+
+Structural reform
+
+webpage.
+
+12 October:
+
+We published
+
+Consultation Paper (CP) 22/18 ‘Liquidity reporting: FSA047 and FSA048’
+
+. This CP is relevant to banks, building societies, and PRA-designated investment firms. This consultation closes on Monday 12 November 2018. The PRA invites feedback on the proposals set out in this consultation. Please address any comments or enquiries to
+
+CP22_18@bankofengland.co.uk
+
+.
+
+12 October:
+
+The PRA confirms that it is using its new individual risk methodologies as set out in
+
+Statement of Policy ‘Pillar 2 liquidity’
+
+in liquidity reviews. They are being applied at the current glide path factor.
+
+We have previously stated our intention to set out proposals on the overall calibration of the liquidity framework in 2018. However, we have taken the decision to postpone finalisation of our proposals in order to conduct further analysis on the appropriate level of liquidity guidance. This includes the potential for some recognition in the Pillar 2 liquidity framework of the ability to draw on Bank of England liquidity facilities, where firms have access arrangements and appropriate collateral in place.
+
+1 October:
+
+Following
+
+PS8/18 ‘Pillar 2: Updates to reporting requirements’
+
+updated versions of
+
+Statement of Policy ‘The PRA’s methodologies for setting Pillar 2 capital’
+
+and
+
+SS32/15 ‘Pillar 2, including instructions for completing data items FSA071 to FSA082, and PRA 111’
+
+have come into effect. The Pillar 2 reporting schedule has also been updated, and is available above.
+
+28 September:
+
+Following the publication of the final PRA110 template and associated reporting instructions in
+
+Policy Statement (PS) 2/18 ‘Pillar 2 liquidity’
+
+, we have received a number of additional questions from firms regarding the template and reporting instructions. We have decided to publish answers to these questions (‘Q&As’) periodically, where questions received highlight a need to clarify the reporting instructions or rules. This document is version 1 of the PRA110 Q&As and covers responses on questions related to monetisation rows.
+
+In addition, having considered feedback from firms, we have reviewed the currency reporting basis for the interim reporting period: firms should only submit on an all-currency basis and for US Dollars (USD), where USD is a material currency.
+
+For more information see the
+
+Interim reporting of PRA110 section
+
+.
+
+31 August:
+
+To assist firms with their submission of
+PRA110, we published a taxonomy release note alongside v3.1.1 of our XBRL
+taxonomy, data point model (DPM) and taxonomy validations – see the Taxonomy
+section below.
+
+12 July
+
+: Following our email to participating firms, we provided further information on the timing and basis of interim reporting for the introduction of PRA110.
+
+By way of background, in
+
+Policy Statement 2/18 ‘Pillar 2 liquidity’
+
+the PRA introduced methodologies for the assessment of Pillar 2 liquidity risks and a cashflow mismatch risk (CFMR) framework. PRA110 is the new reporting template associated with the CFMR. On 17 January 2018, we updated this webpage to set out that, due to the postponement of the introduction of the PRA110 from 1 January 2019 to 1 July 2019, the interim reporting period would similarly be postponed until September 2018 at the earliest. Specific firms have been contacted to let them know of our intention to commence interim test reporting of the PRA110 and to request their firm’s participation. This update provides additional information on the timing and basis of interim reporting for participating firms.
+
+Timelines and approach
+
+Data submissions for the testing period will commence with end October 2018 data being collected in November 2018. During this time, the PRA110 should be submitted with existing FSA047 and FSA048 returns.
+
+For firms currently reporting FSA047 and FSA048 on a monthly basis, please report the PRA110 as at the calendar month end. The submission is due within 15 business days of the reporting date.
+
+For firms currently reporting FSA047 and FSA048 on a weekly basis, please report the PRA110 once per month, reporting data as at the last Friday of the month (in line with the FSA047 and FSA048 returns). The submission is due within 15 business days of the calendar month end.
+
+Firms should submit the PRA110 on the following reporting basis:
+
+submit on an all-currency basis and for the three single largest material currencies, or fewer if appropriate; and
+
+submit PRA110 only for material UK subsidiaries (these will be selected in consultation with firms’ supervisors).
+
+This will enable firms to:
+
+assess their own internal processes for the production of the PRA110 returns;
+
+assess that in-scope submissions pass the Gabriel blocking validation rules; and
+
+demonstrate the accuracy of their PRA110 data ahead of FSA047 and FSA048 being switched off.
+
+How to submit PRA110
+
+To assist firms with their s
+
+ubmission of PRA110, we published v3.0.0 of its XBRL taxonomy, data point model (DPM) and related technical artefacts on Friday 20 April 2018 (see below). We are aiming to have firms submit the PRA110 returns in the XBRL format via Gabriel.
+
+How to contact us during the interim reporting period
+
+We will collate questions from participating firms before issuing any updates to FAQ as and when common queries arise. This will also be supplemented by individual periodic responses from supervisors.
+
+Please email questions to your supervisors and copy in
+
+LiquidityPillar2ReportingProjectQueries@bankofengland.gsi.gov.uk
+
+.
+
+10 July:
+
+We published an amended Branch Return Form. We will shortly consult on the change to the existing form. Until then, we would be grateful if firms are able to use the amended form from now onwards. See
+
+Branch Return Form
+
+below.
+
+5 July:
+
+We published v3.1.0 of the Bank of England Banking XBRL taxonomy, alongside related technical artefacts. This taxonomy is to be used for MREL reporting which follows
+
+Policy Statement 11/18 ‘Resolution planning: MREL reporting’
+
+, published on 13 June 2018. This will take effect from Tuesday 1 January 2019.
+
+Please note: the BEEDS system will be used to collect MREL reporting data. The Bank will contact firms to request some basic details to grant access to the BEEDS portal. This will include a request for the nomination of a ‘principal user’ who will be the main contact for the firm with respect to BEEDS, register additional users, and submit returns. Firms should ensure they respond to the request by the deadline given, even where the principal user for MREL reporting is an existing user of BEEDS. Following this, further instructions on how to access BEEDS and an information guide will be sent directly to the nominated principal user.
+
+13 June:
+
+We published
+
+Policy Statement 11/18 ‘Resolution planning: MREL reporting’
+
+and
+
+Supervisory Statement 19/13 UPDATE ‘Resolution planning’
+
+. The appendix to the updated SS19/13 includes MREL reporting templates and guidance that will take effect from Tuesday 1 January 2019. For submission purposes, firms are referred to the Bank’s website for the MREL-related taxonomy and any additional materials and updates. As noted on 3 May 2018, we will aim to publish the final version of the taxonomy and DPM in Summer 2018.
+
+In preparation, the Bank will contact firms to request some basic details to grant access to the BEEDS portal. This will include a request for the nomination of a ‘principal user’ who will be the main contact for the firm with respect to BEEDS, register additional users, and submit returns. Firms should ensure they respond to the request by the deadline given, even where the principal user for MREL reporting is an existing user of BEEDS. Following this, further instructions on how to access BEEDS and an information guide will be sent directly to the nominated principal user.
+
+3 May:
+
+We published a public working draft (PWD) of the standalone MREL reporting taxonomy that will make up part of the Bank’s Banking XBRL taxonomy, alongside related technical artefacts. The taxonomy, data point model (DPM) dictionary, annotated templates and validation rules represent the requirements for MREL reporting, as mentioned in
+
+Consultation Paper 1/18 'Resolution planning: MREL reporting'
+
+. Firms and software vendors are invited to provide feedback on the PWD of the taxonomy and DPM artefacts by 17 May 2018. We will aim to publish the updated Banking XBRL taxonomy in Summer 2018 See the Taxonomy section below for more information. Please note: the BEEDS system will be used to collect MREL reporting data.
+
+30 April:
+
+Alongside
+
+PS8/18 ‘Pillar 2: Update to reporting requirements’
+
+we published:
+
+PRA111 data item and instructions
+
+Updated Guidance on terms used in data items FSA071 to FSA082, and PRA111*
+
+Updated Pillar 2 reporting schedule
+
+*Note: the effective version as at 30 April 2018 is available under ‘Other FSA data item related documents. The version effective from 1 January 2019, which incorporates reporting for ring-fenced banks, is available under ‘RFB data items and instructions’
+
+26 April:
+
+We published v1.0.1 of the financial statements XBRL utility that contains a fix for the commonly reported bug in v1.0.0, where the incorrect firm reference number (FRN) was being entered into the XBRL code. See the '
+
+Capital+ XBRL utility and financial statements XBRL utility' section below.
+
+20 April:
+
+We published v3.0.0 of the Bank of England Banking XBRL taxonomy, alongside related technical artefacts. This includes the taxonomy for ring-fencing which follows
+
+Policy Statement 3/17 ‘The implementation of ring-fencing: reporting and residual matters – responses to CP25/16 and Chapter 5 of CP36/16’
+
+published on 1 February 2017, and the taxonomy for Pillar 2 liquidity (‘Pillar 2’) which follows
+
+PS2/18 ‘Pillar 2 liquidity’
+
+published on 23 February 2018. Please note: the GABRIEL system will be used to collect Pillar 2 reporting data and the ring-fencing data.
+
+The taxonomies for financial statements and Capital+ reporting are unchanged from v2.0.0 of the Bank of England Banking XBRL taxonomy.
+
+7 March:
+
+We published a public working draft (PWD) of v3.0.0 of the Bank of England Banking XBRL taxonomy, alongside related technical artefacts. This includes the taxonomy for Pillar 2 liquidity (‘Pillar 2’) which follows
+
+Policy Statement (PS) 2/18 'Pillar 2 liquidity'
+
+published on 23 February 2018 and the taxonomy for ring-fencing which follows
+
+PS3/17 'The implementation of ring-fencing: reporting and residual matters - responses to CP25/16 and Chapter 5 of CP36/16'
+
+published on 1 February 2017. The taxonomy, data point model (DPM) dictionary, annotated templates and validation rules represent the requirements for reporting of Pillar 2 data as set out in PS2/18 and for ring-fencing data as set out in PS3/17. Firms and software vendors are invited to provide feedback on the PWD of the technical artefacts by Tuesday 20 March 2018. We will aim to publish the final v3.0.0 Bank of England XBRL taxonomy in April 2018. See the Taxonomy section below for more information.
+
+Please note: the GABRIEL system will be used to collect Pillar 2 reporting data and the ring-fencing data.
+
+The taxonomies for financial statements and Capital+ reporting are unchanged from v2.0.0 of the Bank of England Banking XBRL taxonomy.
+
+23 February
+
+: We published PRA110 template and reporting instructions alongside
+
+PS2/18 ‘Pillar 2 liquidity’
+
+and
+
+SS34/15 ‘Guidelines for completing regulatory reports’
+
+. The PRA110 template and reporting instructions will take effect from 1 July 2019. For information and updates on upcoming public working drafts and taxonomies, please refer to this page.
+
+Separately, we also made minor updates to RFB001 - RFB008 instructions. The ‘Units’ section in each set of reporting instructions has been updated to clarify the precision required for reporting.
+
+7 February:
+
+The Bank of England Electronic Data Submission (BEEDS) user guide has been updated to incorporate changes that have been made as part of ongoing system maintenance, as well as important information regarding account practices. Credit unions using the BEEDS portal should familiarise themselves with this document.
+
+BEEDS portal user guide - Credit unions
+
+31 January:
+
+Minor updates have been made to
+
+PRA102 instructions
+
+and
+
+PRA103 instructions
+
+.
+
+Following receipt of the first PRA102 and PRA103 returns and queries from firms, we have provided more clarity in the ‘Reporting periods’ section on which columns firms should complete. Expanded examples of reporting annual and semi-annual data are also included.
+
+17 January:
+
+In
+
+CP13/17 ‘Pillar 2 Liquidity’
+
+the PRA proposed to introduce a new liquidity reporting template (PRA110) to support the cash flow mismatch risk (CFMR) framework. Having considered responses, the PRA has decided to postpone the proposed introduction of PRA110 by 6 months, from 1 January 2019 to 1 July 2019. The interim reporting, proposed to start in March 2018, is also delayed by 6 months to at earliest September 2018. As proposed in CP13/17, the PRA intends to terminate the FSA047 and FSA048 returns at the same time the PRA110 is implemented. In case of any delay in the implementation of the PRA110, the PRA will delay the proposed termination of the FSA047 and FSA048 returns. The FSA047 and FSA048 termination remains linked to the implementation of the PRA110.
+
+Contact
+
+If you have any queries on regulatory reporting contact the Firm Enquiries Team:
+
+Phone: 020 3461 7000
+
+Email:
+
+PRA.FirmEnquiries@bankofengland.co.uk
+
+Technical queries about the
+
+RegData
+
+system are handled by the Financial Conduct Authority (FCA). Firms experiencing systems issues should contact the FCA Contact Centre in the first instance on 0300 500 0597.
+
+Working with the Financial Conduct Authority
+
+We work with the Financial Conduct Authority (FCA) to make sure the regulatory reporting processes for dual-regulated firms are efficient. We want to ensure that firms are only asked to submit data sets once and, to help achieve this, we will share data where it is appropriate to do so. We will also share data on firms that are not dual-regulated where necessary, to ensure that we each have a complete view of the market.
+
+A memorandum of understanding between the FCA and the Bank of England (exercising its prudential regulation functions) sets out how we will work together.
+
+Memorandum of Understanding between the FCA and the Bank of England (exercising its prudential regulation functions)
+
+(pdf)
+
+The Memorandum of Understanding obliges us to consult each other on changes to data/forms that are collected regularly, including the use of shared data definitions; and, the management of data systems to allow for efficient sharing.
+
+Much regulatory data for PRA firms continues to be collected by the FCA. This includes reporting via the FCA’s
+
+RegData
+
+system, the submission of firms’ controllers and close links reports and the reporting of changes to firms’ standing data.
+
+Statistical reporting obligations
+
+have not changed.
+
+Back to top
+
+This page was last updated 15 November 2023

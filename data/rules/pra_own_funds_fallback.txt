@@ -1,0 +1,10 @@
+Source: Fallback / Mock Data
+
+Article 26 Common Equity Tier 1 items
+1. Common Equity Tier 1 items of institutions consist of the following:
+(a) capital instruments, provided that the conditions laid down in Article 28 or, where applicable, Article 29 are met;
+(b) share premium accounts related to the instruments referred to in point (a);
+(c) retained earnings;
+(d) accumulated other comprehensive income;
+(e) other reserves;
+(f) funds for general banking risk.
