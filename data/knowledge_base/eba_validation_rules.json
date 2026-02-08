@@ -1,0 +1,46 @@
+{
+    "validation_rules": [
+        {
+            "rule_id": "v0010_m",
+            "template": "C_01.00",
+            "description": "{CA1, r010, c010} = {CA1, r015, c010} + {CA1, r750, c010}",
+            "severity": "error",
+            "category": "calculation"
+        },
+        {
+            "rule_id": "v0015_m",
+            "template": "C_01.00",
+            "description": "{CA1, r015, c010} = {CA1, r020, c010} + {CA1, r530, c010}",
+            "severity": "error",
+            "category": "calculation"
+        },
+        {
+            "rule_id": "v0130_m",
+            "template": "C_01.00",
+            "description": "{CA1, r130, c010} = {CA1, r140, c010} + {CA1, r150, c010} + {CA1, r160, c010} + {CA1, r170, c010}",
+            "severity": "error",
+            "category": "calculation"
+        },
+        {
+            "rule_id": "v0070_w",
+            "template": "C_01.00",
+            "description": "{CA1, r070, c010} <= 0",
+            "severity": "warning",
+            "category": "sign_check"
+        },
+        {
+            "rule_id": "v0300_w",
+            "template": "C_01.00",
+            "description": "{CA1, r300, c010} <= 0",
+            "severity": "warning",
+            "category": "sign_check"
+        },
+        {
+            "rule_id": "v0340_w",
+            "template": "C_01.00",
+            "description": "{CA1, r340, c010} <= 0",
+            "severity": "warning",
+            "category": "sign_check"
+        }
+    ]
+}

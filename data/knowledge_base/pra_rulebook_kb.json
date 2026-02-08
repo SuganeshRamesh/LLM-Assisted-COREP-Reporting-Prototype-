@@ -1,0 +1,479 @@
+[
+    {
+        "article": "Article 26(1) CRR",
+        "section": "Common Equity Tier 1 items",
+        "text": "Common Equity Tier 1 items shall comprise: (a) capital instruments, provided the conditions laid down in Article 28 or, where applicable, Article 29 are met; (b) share premium accounts related to the instruments referred to in point (a); (c) retained earnings; (d) accumulated other comprehensive income; (e) other reserves; (f) funds for general banking risk referred to in Article 4(1)(113).",
+        "tags": [
+            "CET1",
+            "capital_instruments",
+            "share_premium",
+            "retained_earnings",
+            "reserves",
+            "oci"
+        ],
+        "template_rows": [
+            "020",
+            "030",
+            "040",
+            "060",
+            "130",
+            "180",
+            "200"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 1",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 26(2) CRR",
+        "section": "Interim and year-end profits eligibility",
+        "text": "Interim or year-end profits shall be included in Common Equity Tier 1 capital only with the prior permission of the competent authority and provided that: (a) those profits have been verified by persons independent of the institution who are responsible for the auditing of the accounts of that institution; and (b) the institution has demonstrated to the satisfaction of the competent authority that any foreseeable charge or dividend has been deducted from the amount of those profits.",
+        "tags": [
+            "CET1",
+            "interim_profits",
+            "retained_earnings",
+            "verification",
+            "audit"
+        ],
+        "template_rows": [
+            "150"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 1",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 26(3) CRR",
+        "section": "Foreseeable dividends and charges",
+        "text": "For the purposes of point (b) of paragraph 2, where dividends or other foreseeable charges are declared after the end of the financial year and before the interim or year-end profits are verified in accordance with point (a) of that paragraph, institutions shall demonstrate that the profits, after deducting those dividends and other charges, remain positive.",
+        "tags": [
+            "CET1",
+            "dividends",
+            "foreseeable_charges"
+        ],
+        "template_rows": [
+            "150"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 1",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 28(1) CRR",
+        "section": "Conditions for CET1 capital instruments",
+        "text": "Capital instruments shall qualify as Common Equity Tier 1 instruments only if all of the following conditions are met: (a) the instruments are issued directly by the institution with the prior approval of the owners of the institution or, where permitted under applicable national law, the management body of the institution; (b) the instruments are paid up and their purchase is not funded directly or indirectly by the institution; (c) the instruments meet all the requirements set out in Articles 29 or 29a; (d) the instruments are classified as equity capital under the applicable accounting standards; (e) the instruments are clearly and separately disclosed on the balance sheet in the financial statements.",
+        "tags": [
+            "CET1",
+            "capital_instruments",
+            "qualifying_conditions",
+            "equity"
+        ],
+        "template_rows": [
+            "030",
+            "040"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 1",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 28(2) CRR",
+        "section": "Instruments issued by mutuals and cooperatives",
+        "text": "Notwithstanding paragraph 1, in the case of mutuals, cooperatives, savings institutions or similar institutions, Member States may allow the following items to qualify as Common Equity Tier 1 instruments where the conditions set out in Article 29 are met: (a) members' capital; (b) profit participation rights or similar instruments issued by such institutions.",
+        "tags": [
+            "CET1",
+            "mutual_societies",
+            "cooperatives",
+            "members_capital"
+        ],
+        "template_rows": [
+            "040"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 1",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 29(1) CRR",
+        "section": "Instruments features for CET1 qualification",
+        "text": "The instruments referred to in points (a) to (c) of Article 28(1) shall meet all of the following conditions: (a) they are perpetual; (b) the principal amount of the instruments shall not be reduced or repaid except in either of the following cases: (i) the liquidation of the institution; (ii) a discretionary repurchase of the instruments or a discretionary reduction of their principal amount when the conditions in Article 77 are met; (c) the provisions governing the instruments do not indicate expressly or implicitly that the principal amount of the instruments would or might be reduced or repaid other than in the liquidation of the institution.",
+        "tags": [
+            "CET1",
+            "perpetual_instruments",
+            "repayment_conditions"
+        ],
+        "template_rows": [
+            "040"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 1",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 36(1) CRR",
+        "section": "Items to be deducted from CET1",
+        "text": "Institutions shall deduct the following items from Common Equity Tier 1 items: (a) losses for the current financial year; (b) intangible assets, subject to the treatment set out in Article 37; (c) deferred tax assets that rely on future profitability and do not arise from temporary differences net of associated tax liabilities, subject to the treatment set out in Article 38(3); (d) negative amounts resulting from the calculation of expected loss amounts, subject to the treatment set out in Article 40; (e) defined benefit pension fund assets, subject to the treatment set out in Article 41; (f) holdings by an institution of own Common Equity Tier 1 instruments, subject to the treatment set out in Article 42; (g) direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 instruments of entities in the financial sector, subject to the treatment set out in Articles 43 to 46.",
+        "tags": [
+            "CET1",
+            "deductions",
+            "losses",
+            "intangible_assets",
+            "own_instruments",
+            "goodwill"
+        ],
+        "template_rows": [
+            "070",
+            "300",
+            "340"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 36(1)(a) CRR",
+        "section": "Deduction of losses",
+        "text": "Losses for the current financial year shall be deducted from Common Equity Tier 1 items. This includes both interim losses and year-end losses that have been verified.",
+        "tags": [
+            "CET1",
+            "deductions",
+            "losses",
+            "current_year"
+        ],
+        "template_rows": [
+            "150"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 36(1)(b) CRR",
+        "section": "Deduction of intangible assets",
+        "text": "Intangible assets shall be deducted from Common Equity Tier 1 items. This includes goodwill, other intangible assets such as software, customer relationships, brands, and similar rights that do not have a separable value. The amount to be deducted shall be the net carrying value of the intangible assets, net of any associated deferred tax liabilities which would be extinguished if the intangible assets became impaired or were derecognised under the applicable accounting standards.",
+        "tags": [
+            "CET1",
+            "deductions",
+            "intangible_assets",
+            "goodwill",
+            "software"
+        ],
+        "template_rows": [
+            "300",
+            "340"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 36(1)(f) CRR",
+        "section": "Deduction of own CET1 instruments",
+        "text": "Holdings by an institution of own Common Equity Tier 1 instruments shall be deducted, whether held directly or indirectly. This includes treasury shares and shares held through subsidiaries. The deduction shall be made regardless of the location of the holdings in the group structure.",
+        "tags": [
+            "CET1",
+            "deductions",
+            "own_instruments",
+            "treasury_shares"
+        ],
+        "template_rows": [
+            "070"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 37 CRR",
+        "section": "Intangible assets treatment",
+        "text": "For the purposes of Article 36(1)(b), intangible assets shall include goodwill and all other intangible assets, including those intangible assets referred to in paragraph 1(b) of IAS 38 Intangible Assets. Institutions shall deduct the net value of intangible assets, calculated as the gross carrying value less associated deferred tax liabilities that would be extinguished if the intangible assets became impaired or derecognised.",
+        "tags": [
+            "intangible_assets",
+            "goodwill",
+            "deductions",
+            "IAS38"
+        ],
+        "template_rows": [
+            "300",
+            "340"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 42 CRR",
+        "section": "Holdings of own CET1 instruments",
+        "text": "For the purposes of Article 36(1)(f), holdings of own Common Equity Tier 1 instruments include both direct holdings and indirect holdings through index holdings. Gross long positions may be calculated net of short positions in the same underlying exposure only where both the long and short positions are held in the trading book. The institution shall deduct the higher of the gross long position or the net long position.",
+        "tags": [
+            "own_instruments",
+            "treasury_shares",
+            "trading_book"
+        ],
+        "template_rows": [
+            "070"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 50 CRR",
+        "section": "Common Equity Tier 1 capital definition",
+        "text": "Common Equity Tier 1 capital shall consist of the items specified in Article 26(1) and, subject to any adjustments made in accordance with Article 32, Article 33 and Articles 36 to 47, subject to the deductions set out in Article 36. The calculation shall be: CET1 capital = CET1 items (Article 26) - CET1 deductions (Article 36).",
+        "tags": [
+            "CET1",
+            "calculation",
+            "definition"
+        ],
+        "template_rows": [
+            "020"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 1 > Section 3",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 51(1) CRR",
+        "section": "Additional Tier 1 capital definition",
+        "text": "Additional Tier 1 capital shall consist of: (a) capital instruments and the related share premium accounts, provided the conditions laid down in Articles 52 and 54 are met; and (b) subject to the deductions set out in Article 56. The sum of Additional Tier 1 capital and Common Equity Tier 1 capital shall constitute Tier 1 capital.",
+        "tags": [
+            "AT1",
+            "capital_instruments",
+            "Tier1"
+        ],
+        "template_rows": [
+            "530",
+            "540"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 52(1) CRR",
+        "section": "Conditions for AT1 instruments",
+        "text": "Capital instruments shall qualify as Additional Tier 1 instruments only if all of the following conditions are met: (a) they have been issued directly by an institution; (b) they have been paid up; (c) they are not purchased by the institution or its subsidiary; (d) they cannot be redeemed at the initiative of the holder or without the prior approval of the competent authority; (e) they are perpetual; (f) distributions on the instruments can be cancelled at any time at the full discretion of the institution; (g) distributions are paid out of distributable items; (h) in the case of conversion or write-down, there is a pre-specified trigger event of CET1 capital falling below a specified level.",
+        "tags": [
+            "AT1",
+            "qualifying_conditions",
+            "perpetual",
+            "loss_absorption"
+        ],
+        "template_rows": [
+            "540"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 2",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 61 CRR",
+        "section": "Tier 1 capital definition",
+        "text": "The Tier 1 capital of institutions shall be the sum of the Common Equity Tier 1 capital and Additional Tier 1 capital of the institution. Tier 1 capital = CET1 capital (Article 50) + AT1 capital (Article 51).",
+        "tags": [
+            "Tier1",
+            "calculation",
+            "CET1",
+            "AT1"
+        ],
+        "template_rows": [
+            "015"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 3",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 62 CRR",
+        "section": "Conditions for Tier 2 instruments",
+        "text": "Capital instruments and subordinated loans shall qualify as Tier 2 instruments only if all of the following conditions are met: (a) they have been issued directly by an institution; (b) they have been paid up; (c) they are subordinated to all non-subordinated creditors; (d) they have an original maturity of at least 5 years; (e) during the 5 years before maturity, the amount recognized as Tier 2 capital is amortized on a straight-line basis; (f) they do not contain incentives to redeem; (g) the level of distributions is not reset based on the credit standing of the institution.",
+        "tags": [
+            "T2",
+            "Tier2",
+            "subordinated_debt",
+            "qualifying_conditions"
+        ],
+        "template_rows": [
+            "760"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 4",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 63 CRR",
+        "section": "Tier 2 instruments amortization",
+        "text": "The amount of Tier 2 capital instruments and subordinated loans to be included in Tier 2 capital shall be subject to amortization during the last 5 years of their maturity. The amortization shall be calculated on a straight-line basis, reducing the recognized amount by 20% per year.",
+        "tags": [
+            "T2",
+            "Tier2",
+            "amortization",
+            "maturity"
+        ],
+        "template_rows": [
+            "760"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 4",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 71 CRR",
+        "section": "Tier 2 capital definition",
+        "text": "Tier 2 capital of institutions shall consist of: (a) capital instruments and subordinated loans that meet the conditions laid down in Articles 62 and 63; (b) the amount of the share premium accounts related to the instruments referred to in point (a); and (c) subject to the deductions set out in Article 66.",
+        "tags": [
+            "T2",
+            "Tier2",
+            "subordinated_loans",
+            "definition"
+        ],
+        "template_rows": [
+            "750",
+            "760"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 4",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 72 CRR",
+        "section": "Own funds definition",
+        "text": "The own funds of an institution shall consist of the sum of its Tier 1 capital and Tier 2 capital. Tier 1 capital shall consist of the sum of Common Equity Tier 1 capital and Additional Tier 1 capital of the institution. Own Funds = Tier 1 capital (Article 61) + Tier 2 capital (Article 71).",
+        "tags": [
+            "own_funds",
+            "calculation",
+            "Tier1",
+            "Tier2",
+            "total_capital"
+        ],
+        "template_rows": [
+            "010"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 5",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 92(1) CRR",
+        "section": "Minimum capital requirements",
+        "text": "Institutions shall at all times satisfy the following own funds requirements: (a) a Common Equity Tier 1 capital ratio of 4.5%; (b) a Tier 1 capital ratio of 6%; (c) a total capital ratio of 8%. The capital ratios shall be calculated as the relevant capital divided by the total risk exposure amount.",
+        "tags": [
+            "capital_ratios",
+            "minimum_requirements",
+            "CET1_ratio",
+            "Tier1_ratio",
+            "total_capital_ratio"
+        ],
+        "template_rows": [
+            "010",
+            "015",
+            "020"
+        ],
+        "hierarchy": "CRR > Part Three > Title I",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "Article 77 CRR",
+        "section": "Restrictions on distributions",
+        "text": "Institutions may reduce the principal amount of Common Equity Tier 1 instruments through redemption or repurchase only if the following conditions are met: (a) either before or at the same time the institution replaces the instruments with own funds instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution; or (b) the institution has demonstrated to the satisfaction of the competent authority that its own funds would, following the reduction, exceed the requirements laid down in Article 92(1) by a margin that the competent authority considers necessary.",
+        "tags": [
+            "capital_management",
+            "redemption",
+            "repurchase",
+            "prudential_filter"
+        ],
+        "template_rows": [
+            "040"
+        ],
+        "hierarchy": "CRR > Part Two > Title I > Chapter 5",
+        "effective_date": "2014-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "PRA Rulebook: Own Funds 2.1",
+        "section": "Reporting frequency and deadlines",
+        "text": "Firms must submit COREP CA1 (Own Funds) returns on a quarterly basis, no later than 30 business days after the reference date. The reference dates are: 31 March, 30 June, 30 September, and 31 December. Solo entity returns and consolidated returns must be submitted separately where applicable.",
+        "tags": [
+            "reporting",
+            "deadlines",
+            "quarterly",
+            "PRA_requirements"
+        ],
+        "template_rows": [
+            "010"
+        ],
+        "hierarchy": "PRA Rulebook > Reporting > Own Funds",
+        "effective_date": "2022-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "PRA Rulebook: Own Funds 2.2",
+        "section": "Materiality and rounding",
+        "text": "Amounts in COREP returns must be reported in thousands of the reporting currency (GBP for UK firms). Figures should be rounded to the nearest thousand. Negative amounts (deductions) must be reported with a negative sign. Zero values must be explicitly reported as '0' rather than left blank.",
+        "tags": [
+            "reporting",
+            "rounding",
+            "materiality",
+            "format"
+        ],
+        "template_rows": [
+            "010"
+        ],
+        "hierarchy": "PRA Rulebook > Reporting > Own Funds",
+        "effective_date": "2022-01-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "EBA ITS: CA1 Instructions Row 010",
+        "section": "Own Funds reporting instruction",
+        "text": "Row 010 'Own Funds' shall be calculated as the sum of Tier 1 capital (row 015) and Tier 2 capital (row 750). This represents the total regulatory capital available to the institution for meeting capital requirements under Article 72 CRR. The amount must reconcile to the institution's regulatory capital calculation submitted to the competent authority.",
+        "tags": [
+            "CA1",
+            "own_funds",
+            "instructions",
+            "row_010"
+        ],
+        "template_rows": [
+            "010"
+        ],
+        "hierarchy": "EBA ITS > COREP > CA1 Instructions",
+        "effective_date": "2022-06-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "EBA ITS: CA1 Instructions Row 015",
+        "section": "Tier 1 capital reporting instruction",
+        "text": "Row 015 'Tier 1 capital' shall be calculated as the sum of Common Equity Tier 1 capital (row 020) and Additional Tier 1 capital (row 530) in accordance with Article 61 CRR. Tier 1 capital represents the highest quality capital that is permanently available to absorb losses on a going concern basis.",
+        "tags": [
+            "CA1",
+            "Tier1",
+            "instructions",
+            "row_015"
+        ],
+        "template_rows": [
+            "015"
+        ],
+        "hierarchy": "EBA ITS > COREP > CA1 Instructions",
+        "effective_date": "2022-06-01",
+        "last_updated": "2024-12-31"
+    },
+    {
+        "article": "EBA ITS: CA1 Instructions Row 020",
+        "section": "CET1 capital reporting instruction",
+        "text": "Row 020 'Common Equity Tier 1 capital' shall be calculated in accordance with Article 50 CRR. It represents CET1 items (Article 26) after applying filters and deductions (Articles 32-48). This is the core capital consisting of ordinary shares, retained earnings, and disclosed reserves, adjusted for regulatory deductions such as goodwill and intangible assets.",
+        "tags": [
+            "CA1",
+            "CET1",
+            "instructions",
+            "row_020"
+        ],
+        "template_rows": [
+            "020"
+        ],
+        "hierarchy": "EBA ITS > COREP > CA1 Instructions",
+        "effective_date": "2022-06-01",
+        "last_updated": "2024-12-31"
+    }
+]

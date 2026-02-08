@@ -1,0 +1,435 @@
+{
+    "template_code": "C_01.00",
+    "template_name": "OWN FUNDS (CA1)",
+    "version": "4.2",
+    "effective_date": "2022-06-28",
+    "description": "Reporting template for own funds composition under CRR Article 437",
+    "reporting_frequency": "Quarterly",
+    "fields": [
+        {
+            "row": "010",
+            "id": "1",
+            "item": "OWN FUNDS",
+            "description": "Total regulatory capital (Tier 1 + Tier 2)",
+            "calculation": "row_015 + row_750",
+            "source_articles": [
+                "Article 72 CRR"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "positive"
+        },
+        {
+            "row": "015",
+            "id": "1.1",
+            "item": "TIER 1 CAPITAL",
+            "description": "Sum of CET1 and AT1 capital",
+            "calculation": "row_020 + row_530",
+            "source_articles": [
+                "Article 61 CRR"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "positive"
+        },
+        {
+            "row": "020",
+            "id": "1.1.1",
+            "item": "COMMON EQUITY TIER 1 CAPITAL",
+            "description": "Core capital after deductions",
+            "calculation": "sum(rows_026_to_520) - deductions",
+            "source_articles": [
+                "Article 50 CRR"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "positive"
+        },
+        {
+            "row": "030",
+            "id": "1.1.1.1",
+            "item": "Capital instruments eligible as CET1 Capital",
+            "description": "Qualifying ordinary shares and equivalent instruments",
+            "calculation": "row_040 + row_050 + row_060 - row_070 - row_080",
+            "source_articles": [
+                "Article 26(1)(a)",
+                "Article 28"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "positive"
+        },
+        {
+            "row": "040",
+            "id": "1.1.1.1.1",
+            "item": "Paid up capital instruments",
+            "description": "Fully paid ordinary shares or mutual capital",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(1)(a)",
+                "Article 28(1)(b)"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "positive",
+            "validation": "must_be_positive"
+        },
+        {
+            "row": "050",
+            "id": "1.1.1.1.2",
+            "item": "Unpaid capital instruments",
+            "description": "Share capital subscribed but not yet paid (rarely used)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(1)(a)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        },
+        {
+            "row": "060",
+            "id": "1.1.1.1.3",
+            "item": "Share premium",
+            "description": "Share premium accounts related to CET1 instruments",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(1)(b)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        },
+        {
+            "row": "070",
+            "id": "1.1.1.1.4",
+            "item": "(-) Own CET1 instruments",
+            "description": "Treasury shares and indirect holdings (deduction)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(f)",
+                "Article 42"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative",
+            "validation": "must_be_negative_or_zero"
+        },
+        {
+            "row": "080",
+            "id": "1.1.1.1.5",
+            "item": "(-) Direct holdings of CET1 instruments",
+            "description": "Holdings in financial sector entities",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(g)",
+                "Article 43"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative"
+        },
+        {
+            "row": "130",
+            "id": "1.1.1.2",
+            "item": "Retained earnings",
+            "description": "Accumulated profits net of dividends",
+            "calculation": "row_140 + row_150 + row_160 + row_170",
+            "source_articles": [
+                "Article 26(1)(c)"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "any"
+        },
+        {
+            "row": "140",
+            "id": "1.1.1.2.1",
+            "item": "Previous years retained earnings",
+            "description": "Cumulative retained earnings from prior periods",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(1)(c)"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "any"
+        },
+        {
+            "row": "150",
+            "id": "1.1.1.2.2",
+            "item": "Profit or loss eligible",
+            "description": "Current year audited profit/loss after foreseeable dividends",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(2)",
+                "Article 26(3)"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "any",
+            "validation": "requires_audit_verification"
+        },
+        {
+            "row": "160",
+            "id": "1.1.1.2.3",
+            "item": "Profit or loss attributable to owners of the parent",
+            "description": "Profit attributable to parent entity owners",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(2)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "any"
+        },
+        {
+            "row": "170",
+            "id": "1.1.1.2.4",
+            "item": "(-) Interim or year-end losses",
+            "description": "Losses for current financial year (deduction)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(a)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative"
+        },
+        {
+            "row": "180",
+            "id": "1.1.1.3",
+            "item": "Accumulated other comprehensive income",
+            "description": "OCI including FVOCI reserves and revaluation reserves",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(1)(d)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "any"
+        },
+        {
+            "row": "200",
+            "id": "1.1.1.4",
+            "item": "Other reserves",
+            "description": "Statutory, legal, and other disclosed reserves",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(1)(e)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        },
+        {
+            "row": "210",
+            "id": "1.1.1.5",
+            "item": "Funds for general banking risk",
+            "description": "Reserves for general banking risks per IAS",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 26(1)(f)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        },
+        {
+            "row": "300",
+            "id": "1.1.1.10",
+            "item": "(-) Goodwill",
+            "description": "Goodwill net of deferred tax liabilities (deduction)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(b)",
+                "Article 37"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative",
+            "validation": "must_be_negative_or_zero"
+        },
+        {
+            "row": "340",
+            "id": "1.1.1.11",
+            "item": "(-) Other intangible assets",
+            "description": "Software, licenses, brands net of DTL (deduction)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(b)",
+                "Article 37"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative",
+            "validation": "must_be_negative_or_zero"
+        },
+        {
+            "row": "370",
+            "id": "1.1.1.12",
+            "item": "(-) Deferred tax assets on temporary differences",
+            "description": "DTAs exceeding threshold (deduction)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(c)",
+                "Article 38"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative"
+        },
+        {
+            "row": "380",
+            "id": "1.1.1.13",
+            "item": "(-) IRB shortfall",
+            "description": "Shortfall of provisions to expected loss (deduction)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(d)",
+                "Article 40"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative"
+        },
+        {
+            "row": "390",
+            "id": "1.1.1.14",
+            "item": "(-) Defined benefit pension fund assets",
+            "description": "Pension fund assets (deduction)",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 36(1)(e)",
+                "Article 41"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "negative"
+        },
+        {
+            "row": "530",
+            "id": "1.1.2",
+            "item": "ADDITIONAL TIER 1 CAPITAL",
+            "description": "AT1 instruments after deductions",
+            "calculation": "row_540 + row_550 - deductions",
+            "source_articles": [
+                "Article 51 CRR"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "positive"
+        },
+        {
+            "row": "540",
+            "id": "1.1.2.1",
+            "item": "Capital instruments eligible as AT1 Capital",
+            "description": "Qualifying perpetual AT1 instruments with loss absorption",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 51(1)(a)",
+                "Article 52"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        },
+        {
+            "row": "550",
+            "id": "1.1.2.2",
+            "item": "Share premium related to AT1 instruments",
+            "description": "Share premium accounts for AT1 instruments",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 51(1)(a)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        },
+        {
+            "row": "750",
+            "id": "1.2",
+            "item": "TIER 2 CAPITAL",
+            "description": "Tier 2 capital after deductions",
+            "calculation": "row_760 + row_770 - deductions",
+            "source_articles": [
+                "Article 71 CRR"
+            ],
+            "data_type": "numeric",
+            "required": true,
+            "sign": "positive"
+        },
+        {
+            "row": "760",
+            "id": "1.2.1",
+            "item": "Capital instruments and subordinated loans eligible as T2 Capital",
+            "description": "Qualifying subordinated debt instruments",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 62",
+                "Article 63"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        },
+        {
+            "row": "770",
+            "id": "1.2.2",
+            "item": "Share premium related to T2 instruments",
+            "description": "Share premium accounts for T2 instruments",
+            "calculation": "direct_input",
+            "source_articles": [
+                "Article 71(b)"
+            ],
+            "data_type": "numeric",
+            "required": false,
+            "sign": "positive"
+        }
+    ],
+    "validation_rules": [
+        {
+            "rule_id": "CA1_R010",
+            "description": "Own Funds = Tier 1 + Tier 2",
+            "formula": "row_010 = row_015 + row_750",
+            "severity": "error"
+        },
+        {
+            "rule_id": "CA1_R015",
+            "description": "Tier 1 = CET1 + AT1",
+            "formula": "row_015 = row_020 + row_530",
+            "severity": "error"
+        },
+        {
+            "rule_id": "CA1_R020",
+            "description": "CET1 calculation check",
+            "formula": "row_020 = sum(CET1_items) - sum(CET1_deductions)",
+            "severity": "error"
+        },
+        {
+            "rule_id": "CA1_R070",
+            "description": "Own CET1 instruments must be negative or zero",
+            "formula": "row_070 <= 0",
+            "severity": "warning"
+        },
+        {
+            "rule_id": "CA1_R130",
+            "description": "Retained earnings calculation",
+            "formula": "row_130 = row_140 + row_150 + row_160 + row_170",
+            "severity": "error"
+        },
+        {
+            "rule_id": "CA1_R300",
+            "description": "Goodwill must be negative or zero",
+            "formula": "row_300 <= 0",
+            "severity": "warning"
+        },
+        {
+            "rule_id": "CA1_R340",
+            "description": "Intangible assets must be negative or zero",
+            "formula": "row_340 <= 0",
+            "severity": "warning"
+        }
+    ]
+}
